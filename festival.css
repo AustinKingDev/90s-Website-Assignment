@@ -1,0 +1,35 @@
+.body{
+    background-image: url("https://j.gifs.com/mL4dqz.gif");
+    background-size: 150px;
+    background-repeat: repeat;
+}
+.flexbox-container {
+    display: flex;
+    justify-content: center;
+}
+.festivals {
+    width: 800px;
+    height: 150px;
+    background-color: dark gray;
+    color:white;
+    border: 5px solid yellow;
+}
+.description {
+    height:200px;
+    width: 800px;
+    border: 5px solid yellow;
+    margin-top: 20px;
+    color: blue;
+    font-size: 50px;
+    font-family: "luminari", fantasy;
+    text-align: center;
+}
+
+.link {
+    color: red;
+    font-size: 40px;
+    text-decoration: none;
+    font-family: "luminari", fantasy;
+    display:inline-block;
+    margin-top: 20px;
+}

@@ -1,0 +1,38 @@
+body {
+    background-image: url("https://us.123rf.com/450wm/dolva/dolva1511/dolva151100015/48364117-seamless-abstract-geometric-pattern-fashion-80-90s-it-can-be-used-in-printing-website-background-and.jpg?ver=6");
+    background-repeat: repeat;
+    background-size: 200px;
+}
+
+.flexbox-container {
+    display: flex;
+    justify-content: center;
+}
+.oop {
+    width: 800px;
+    height: 150px;
+    background-color: dark gray;
+    color:white;
+    border: 3px solid green;
+}
+
+.description {
+    height:200px;
+    width: 800px;
+    border: 5px solid green;
+    margin-top: 20px;
+    color: yellow;
+    font-size: 50px;
+    font-family: "luminari", fantasy;
+    text-align: center;
+    background-color: black;
+}
+
+.link {
+    color: red;
+    font-size: 40px;
+    text-decoration: none;
+    font-family: "luminari", fantasy;
+    display:inline-block;
+    margin-top: 20px;
+}

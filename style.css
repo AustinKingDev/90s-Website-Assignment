@@ -1,0 +1,30 @@
+.body {
+    background-image: url("data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAARgAAACbCAMAAACOA3R8AAAAMFBMVEUAAAAxAJwxAGNjMc7///+1Y+ZjAJzOnP+cMf/Ozs5jAP8AMTExMTEAADEAMQDO///DHfP4AAAB7UlEQVR4nO3d0U7CMABA0Y0xpiL4/38riRJ8oLEr7XrX3pP4qLnB0rS1w2GQJGnvjrUD/iC1SJIkSVIfprF2wQOpRbmR9vykliDS26FUy6HMj036/ZJaSsUkIbUMI6iG1NLFdJHk7VS74IHUMi4zZvySWqbl+D5DBjCp5fZbmj8+azfckVpYEx6pZThh3tasFtSiitSCiiG1qBzSeQCppYbDuXYBlJNRAGobTlJhJUhafAZbLjm34aT5+tUW0jachLUNJ7ltwx0xT5FmQhTUNpzE1yXAF0b70NJiUJIkSZK0FukokNSi3Eh7flJLEOnt4EMWyXzIIivSjQpSSxfTRRLSgw2kFtKNClIL6UYFqYX1YAOphTXhkVpQNypILahFFakFFUNqUTmk8wBSiyTFIy0+t2khzdekFkmSJEmSCEh7ZVKLmvT8s4tIA69Sy+q/8fVyxIm63UZCGgAkWT+7qCWk220krNttJH52Ucimky9ppv+vBXW7jSTL69LiQtkBI0lS50iLAVILKobUgjofJLXsateYTcymZKvzQVJLjHHhnIK91JJ5tE3LV/r5IKklO9LTr6SWTiffGKTzQVILalFFakHFkFokSclIKyNSiyRJktp0/f36cakXMmzWEv+/s6/3hvOa79priyTl9g2dQgVDD/ekPQAAAABJRU5ErkJggg==");
+    background-size: 150px;
+    background-repeat: repeat;
+}
+
+.flexbox-container {
+    display: flex;
+    justify-content: center;
+}
+.topics {
+    width: 800px;
+    height: 150px;
+    background-color: dark gray;
+    color:white;
+    border: 3px solid blue;
+}
+
+.under-construction {
+    margin-top: 10px;
+}
+
+.link {
+    color: red;
+    font-size: 40px;
+    text-decoration: none;
+    font-family: "luminari", fantasy;
+    display:inline-block;
+    margin-top: 20px;
+}
